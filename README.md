@@ -1,1 +1,4 @@
 # Rabbit-Objc
+
+## License
+MIT
