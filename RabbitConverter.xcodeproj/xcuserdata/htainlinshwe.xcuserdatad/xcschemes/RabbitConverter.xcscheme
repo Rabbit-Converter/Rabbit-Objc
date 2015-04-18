@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "65CD8E6E1AE23E3D00A19126"
-               BuildableName = "Rabbit.app"
-               BlueprintName = "Rabbit"
-               ReferencedContainer = "container:Rabbit.xcodeproj">
+               BlueprintIdentifier = "651207011AE24E520051C80D"
+               BuildableName = "RabbitConverter.framework"
+               BlueprintName = "RabbitConverter"
+               ReferencedContainer = "container:RabbitConverter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,24 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "65CD8E871AE23E3D00A19126"
-               BuildableName = "RabbitTests.xctest"
-               BlueprintName = "RabbitTests"
-               ReferencedContainer = "container:Rabbit.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "65616BE31AE24B3C00DC32F5"
-               BuildableName = "Rabbit-ConverterTests.xctest"
-               BlueprintName = "Rabbit-ConverterTests"
-               ReferencedContainer = "container:Rabbit.xcodeproj">
+               BlueprintIdentifier = "6512070C1AE24E520051C80D"
+               BuildableName = "RabbitConverterTests.xctest"
+               BlueprintName = "RabbitConverterTests"
+               ReferencedContainer = "container:RabbitConverter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -60,30 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "65CD8E871AE23E3D00A19126"
-               BuildableName = "RabbitTests.xctest"
-               BlueprintName = "RabbitTests"
-               ReferencedContainer = "container:Rabbit.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "65616BE31AE24B3C00DC32F5"
-               BuildableName = "Rabbit-ConverterTests.xctest"
-               BlueprintName = "Rabbit-ConverterTests"
-               ReferencedContainer = "container:Rabbit.xcodeproj">
+               BlueprintIdentifier = "6512070C1AE24E520051C80D"
+               BuildableName = "RabbitConverterTests.xctest"
+               BlueprintName = "RabbitConverterTests"
+               ReferencedContainer = "container:RabbitConverter.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "65CD8E6E1AE23E3D00A19126"
-            BuildableName = "Rabbit.app"
-            BlueprintName = "Rabbit"
-            ReferencedContainer = "container:Rabbit.xcodeproj">
+            BlueprintIdentifier = "651207011AE24E520051C80D"
+            BuildableName = "RabbitConverter.framework"
+            BlueprintName = "RabbitConverter"
+            ReferencedContainer = "container:RabbitConverter.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -96,16 +72,15 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "65CD8E6E1AE23E3D00A19126"
-            BuildableName = "Rabbit.app"
-            BlueprintName = "Rabbit"
-            ReferencedContainer = "container:Rabbit.xcodeproj">
+            BlueprintIdentifier = "651207011AE24E520051C80D"
+            BuildableName = "RabbitConverter.framework"
+            BlueprintName = "RabbitConverter"
+            ReferencedContainer = "container:RabbitConverter.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -115,16 +90,15 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "65CD8E6E1AE23E3D00A19126"
-            BuildableName = "Rabbit.app"
-            BlueprintName = "Rabbit"
-            ReferencedContainer = "container:Rabbit.xcodeproj">
+            BlueprintIdentifier = "651207011AE24E520051C80D"
+            BuildableName = "RabbitConverter.framework"
+            BlueprintName = "RabbitConverter"
+            ReferencedContainer = "container:RabbitConverter.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

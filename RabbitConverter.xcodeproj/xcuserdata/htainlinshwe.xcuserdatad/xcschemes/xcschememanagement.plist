@@ -4,12 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Rabbit-Converter.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
-		</dict>
-		<key>Rabbit.xcscheme</key>
+		<key>RabbitConverter.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -17,22 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>65616BD91AE24B3C00DC32F5</key>
+		<key>651207011AE24E520051C80D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>65616BE31AE24B3C00DC32F5</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>65CD8E6E1AE23E3D00A19126</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>65CD8E871AE23E3D00A19126</key>
+		<key>6512070C1AE24E520051C80D</key>
 		<dict>
 			<key>primary</key>
 			<true/>

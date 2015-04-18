@@ -5,9 +5,9 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>054F7AE1-64DE-4DA5-96D9-EFEE49D40DC3</string>
+	<string>A30C26D7-CB3B-4D99-BCA3-E25BCD6C2602</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Rabbit</string>
+	<string>RabbitConverter</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0C291602151F158CAC9FCBA158DD251C9C0A6D3E</key>
@@ -16,13 +16,13 @@
 		<string>github.com:Rabbit-Converter/Rabbit-Objc.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Test/Rabbit/Rabbit.xcodeproj</string>
+	<string>RabbitConverter.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0C291602151F158CAC9FCBA158DD251C9C0A6D3E</key>
-		<string>../../../../..</string>
+		<string>../../..</string>
 		<key>5177DC9932D93785AD21BB1284A5A7F285B5C124</key>
-		<string>../../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>github.com:Rabbit-Converter/Rabbit-Objc.git</string>

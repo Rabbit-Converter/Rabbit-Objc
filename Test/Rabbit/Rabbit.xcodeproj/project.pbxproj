@@ -30,7 +30,22 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		65616BF81AE24B3C00DC32F5 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		65616BEC1AE24B3C00DC32F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65616BED1AE24B3C00DC32F5 /* Rabbit_ConverterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Rabbit_ConverterTests.m; sourceTree = "<group>"; };
 		65CD8E6F1AE23E3D00A19126 /* Rabbit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rabbit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65CD8E731AE23E3D00A19126 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65CD8E741AE23E3D00A19126 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -67,11 +82,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		65616BEA1AE24B3C00DC32F5 /* Rabbit-ConverterTests */ = {
+			isa = PBXGroup;
+			children = (
+				65616BED1AE24B3C00DC32F5 /* Rabbit_ConverterTests.m */,
+				65616BEB1AE24B3C00DC32F5 /* Supporting Files */,
+			);
+			path = "Rabbit-ConverterTests";
+			sourceTree = "<group>";
+		};
+		65616BEB1AE24B3C00DC32F5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				65616BEC1AE24B3C00DC32F5 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
 		65CD8E661AE23E3D00A19126 = {
 			isa = PBXGroup;
 			children = (
 				65CD8E711AE23E3D00A19126 /* Rabbit */,
 				65CD8E8B1AE23E3D00A19126 /* RabbitTests */,
+				65616BEA1AE24B3C00DC32F5 /* Rabbit-ConverterTests */,
 				65CD8E701AE23E3D00A19126 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -148,6 +181,7 @@
 				65CD8E6B1AE23E3D00A19126 /* Sources */,
 				65CD8E6C1AE23E3D00A19126 /* Frameworks */,
 				65CD8E6D1AE23E3D00A19126 /* Resources */,
+				65616BF81AE24B3C00DC32F5 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -441,6 +475,7 @@
 				65CD8E941AE23E3D00A19126 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		65CD8E951AE23E3D00A19126 /* Build configuration list for PBXNativeTarget "RabbitTests" */ = {
 			isa = XCConfigurationList;
@@ -449,6 +484,7 @@
 				65CD8E971AE23E3D00A19126 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
