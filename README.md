@@ -28,6 +28,17 @@ In the `Cartfile` ,
 ```
 github "Rabbit-Converter/Rabbit-Objc" >= 0.1.2
 ```
+And then update the Carthage
+
+```
+carthage update
+```
+
+You can find the framework , under the `Carthage/Build/iOS/RabbitConverter.framework` . 
+
+- Drag and Drop to yoru framwork. 
+- Unselected the `Copy Item If Needed`
+
 In the `Run Script` > `Input Files` , add
 
 ```
